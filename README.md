@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <a href="[https://www.instagram.com/seu-instagram/" target="_blank](https://www.instagram.com/duda_cout0?igsh=MWYxNW9sbHdwbG84bw==&utm_source=ig_contact_invite)">
+  <a href="https://www.instagram.com/duda_cout0?igsh=MWYxNW9sbHdwbG84bw==&utm_source=ig_contact_invite">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
